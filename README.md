@@ -1,2 +1,2 @@
 # IndicGEC
-NLP Grammer Error Dectectio and Correction
+NLP Grammer Error Dectection and Correction
